@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vetriselvi-N
+- 👀 I’m interested in Digital electronics,Embedded system,Python,Java
+- 🌱 I’m currently learning Python
+- 📫 How to reach me through linkedin: https://www.linkedin.com/in/vetri-selvi-b84206226
